@@ -1,0 +1,198 @@
+﻿#METADATA,,,,,,,,,,,
+#DATA,,,,,,,,,,,
+"Study Name","Respondent Name","Gender","Age","Group","Type","Label","Facial Marker","Parent Stimulus","mean","standard deviation","variance"
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Anger","",0.0805458970022557,0.0859802618444264,0.00739260542683613
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Contempt","",0.0986995809589527,0.102455028506817,0.0104970328663328
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Disgust","",0.0249377657593508,0.28606367356966,0.0818324253361687
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Fear","",0.015937590293429,0.0500713263929136,0.00250713772674569
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Joy","",0.532963132675122,6.6539911687589,44.2755984739214
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Sadness","",0.0836625898730666,0.367590748703776,0.135122958532602
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Surprise","",0.0857940215286318,0.705868618749904,0.498250506935897
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Engagement","",1.25118192565839,8.69376318614984,75.5815183368542
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Valence","",0.997949809073684,7.69027509582729,59.1403310495015
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Sentimentality","",0.217484842653983,0.834163411934297,0.695828597809867
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Confusion","",0.232942497884421,1.71938930146547,2.95629956999393
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Neutral","",57.7702886797369,49.0182423006956,2402.7880782497
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Attention","",38.0088802999259,39.8705637637676,1589.66185484066
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Brow Furrow","",0.174886119345134,1.87621937031827,3.52019912555747
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Brow Raise","",0.216224169413121,1.99925507045011,3.99702083672047
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Cheek Raise","",0.734249615926724,4.82876904382398,23.3170104785927
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Chin Raise","",0.102456058122213,1.8592304096901,3.45673771631643
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Dimpler","",0.130081201066975,2.58651012606007,6.69003463221127
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Eye Closure","",4.11145106722974,13.4760445772325,181.603777447558
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Eye Widen","",0.0455772436980703,0.331686244555334,0.110015764827221
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Inner Brow Raise","",0.474376006840622,2.81979805998944,7.9512610991202
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Jaw Drop","",1.41400241848701,9.63406110616998,92.8151333974171
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Lip Corner Depressor","",0.0951118172870586,1.50613855825029,2.26845335664827
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Lip Press","",0.0220506593992216,0.540625540593761,0.292275975142296
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Lip Pucker","",1.50807404776516,8.10171083303083,65.637718422049
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Lip Stretch","",0.0541026517585631,0.906825891958181,0.82233319832575
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Lip Suck","",0.854222511480608,6.32471384324993,40.0020051989973
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Lid Tighten","",0.180654005301514,2.36191441905903,5.57863972295898
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Mouth Open","",1.96246990210382,7.80275876746793,60.8830443832976
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Nose Wrinkle","",0.249771003431814,1.13383248842357,1.28557611180478
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Smile","",1.95079056745408,7.79152716056762,60.7078954938629
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Smirk","",0.0449646244727688,0.501516576551177,0.251518876555612
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Upper Lip Raise","",2.07563756585165,6.21616767842443,38.6407406062886
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Blink","",0.000532947060591981,0.0230796513649375,0.00053267030712706
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","BlinkRate","",0.773951027653539,3.66060306385814,13.4000147911276
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Pitch","",-2.69184970444382,6.58324112913917,43.3390637643896
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Yaw","",7.70299990761647,14.1747838547572,200.924497329086
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Roll","",-4.53866827297595,5.34480016143838,28.5668887657117
+"thermal_painting_study","2023-10-06 15-29-05","MALE",0,"Default","Stimulus","FaceRecording-1","Interocular Distance","",68.8988396190422,59.5141234441701,3541.93088932792
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Anger","",0.0837942932063448,0.0693309895549445,0.00480678611266782
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Contempt","",0.116641261012546,0.15197992863184,0.0230978987069391
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Disgust","",0.0294567587432445,0.476712765799713,0.227255061076412
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Fear","",0.0165215788616919,0.0209348913726868,0.000438269676786194
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Joy","",0.21151720736398,3.8690679859561,14.9696870799504
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Sadness","",0.0928897861397847,0.424326880358189,0.180053301394512
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Surprise","",0.0433646422731138,0.0884467501508147,0.00782282761224064
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Engagement","",0.62140087816159,5.39872210601149,29.1462003779371
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Valence","",0.523390245736351,4.83680934830464,23.3947246718471
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Sentimentality","",0.387345816311847,0.834637380851328,0.696619557514365
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Confusion","",0.231591757927876,1.821562221175,3.318088925612
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Neutral","",66.5995609181065,46.843852627729,2194.34652900839
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Attention","",52.4292607056059,42.1375481384502,1775.57296312021
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Brow Furrow","",0.0542648602004907,0.707351989289408,0.500346836751682
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Brow Raise","",0.126325398196931,1.0313982535313,1.06378235738742
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Cheek Raise","",0.363294975157165,1.80678967005062,3.26448891180162
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Chin Raise","",0.10777918680358,1.69956284881951,2.8885138770875
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Dimpler","",0.0718523186781786,1.56578904779867,2.45169534220625
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Eye Closure","",12.3633141940715,22.3462118622377,499.353184592011
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Eye Widen","",0.0206574933022407,0.238105095582788,0.0566940365424888
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Inner Brow Raise","",0.745316174285406,3.33388622128045,11.1147973364437
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Jaw Drop","",0.455354186194258,2.60138949179597,6.76722728802651
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Lip Corner Depressor","",0.0545854497907314,1.005589454836,1.01121015167736
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Lip Press","",0.122359124498014,0.807470382898718,0.652008419258602
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Lip Pucker","",0.920878683147546,5.17597838260488,26.7907522171931
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Lip Stretch","",0.284103959711062,2.4837295091348,6.16891227454698
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Lip Suck","",0.889207296553337,3.2014599064893,10.2493455328585
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Lid Tighten","",0.0520497837600605,0.55902743072551,0.312511668303565
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Mouth Open","",0.260668182649402,3.03205573749075,9.1933619952506
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Nose Wrinkle","",0.224766420735396,1.13461238975109,1.28734527497668
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Smile","",1.34128552449585,5.0499880663163,25.502379469937
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Smirk","",0.0112619841932953,0.326280512763742,0.10645897300937
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Upper Lip Raise","",1.36535716172624,5.7714514140895,33.3096514251957
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Blink","",0.00151672496720595,0.0389158734483137,0.00151444520624517
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","BlinkRate","",2.39630775306042,5.22715205212702,27.3231185760557
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Pitch","",-4.68269101210906,6.16203379568093,37.9706604991139
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Yaw","",-8.28030326235258,10.6066564791507,112.50116166671
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Roll","",-3.38892453527336,5.22040487941834,27.2526271050548
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Stimulus","FaceRecording-1","Interocular Distance","",41.5901454740367,30.2229769460843,913.428335483542
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Anger","FaceRecording-1",0.0835593780135182,0.0692529693471356,0.0047959737633953
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Contempt","FaceRecording-1",0.115729417751128,0.084953390507686,0.00721707855875139
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Disgust","FaceRecording-1",0.0259173708572082,0.314444573310747,0.098875389684578
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Fear","FaceRecording-1",0.0164914200003337,0.0243430362133841,0.00059258341208613
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Joy","FaceRecording-1",0.0820571455456173,1.75587406490183,3.08309373179486
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Sadness","FaceRecording-1",0.0910783460603939,0.220939640631898,0.0488143248025524
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Surprise","FaceRecording-1",0.0431973031407545,0.102135249235462,0.01043160913639
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Engagement","FaceRecording-1",0.47998482971239,3.93570032686114,15.4897370628548
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Valence","FaceRecording-1",0.360299281741085,3.41408095141948,11.6559487428453
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Sentimentality","FaceRecording-1",0.382194652933472,0.74487348352833,0.554836506463629
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Confusion","FaceRecording-1",0.268390416013495,2.24007612944436,5.01794106570644
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Neutral","FaceRecording-1",66.3549988129227,46.9363969832725,2203.02536177135
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Attention","FaceRecording-1",52.906515870968,42.2929570699823,1788.69421772336
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Brow Furrow","FaceRecording-1",0.045730641250732,0.648315227429985,0.420312634117592
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Brow Raise","FaceRecording-1",0.107308336070812,1.01547089714977,1.03118114295817
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Cheek Raise","FaceRecording-1",0.327832385368342,1.14298129868047,1.3064062491333
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Chin Raise","FaceRecording-1",0.128657355600512,2.07143940355836,4.29086120261422
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Dimpler","FaceRecording-1",0.0695238883501157,1.43373680977321,2.05560123969866
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Eye Closure","FaceRecording-1",14.0602941618873,24.1223808114658,581.889256013372
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Eye Widen","FaceRecording-1",0.0148133746973778,0.171130876000218,0.029285776720602
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Inner Brow Raise","FaceRecording-1",0.661478865716381,3.22975419388672,10.4313121529289
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Jaw Drop","FaceRecording-1",0.46318438575337,2.76918731629882,7.66839839275024
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Lip Corner Depressor","FaceRecording-1",0.0467229021209576,0.898981183384881,0.80816716808008
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Lip Press","FaceRecording-1",0.105204547190452,0.594286311767453,0.353176220354162
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Lip Pucker","FaceRecording-1",0.861478474323928,4.78992075438463,22.9433408332847
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Lip Stretch","FaceRecording-1",0.344153268404756,3.16044492021622,9.98841209372052
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Lip Suck","FaceRecording-1",0.932377834433036,3.38031806490682,11.4265502199354
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Lid Tighten","FaceRecording-1",0.0368995012009834,0.30602527568524,0.0936514693582271
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Mouth Open","FaceRecording-1",0.202062149736379,2.41921086268807,5.85258119814796
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Nose Wrinkle","FaceRecording-1",0.19465585316243,0.897119105996185,0.804822690343393
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Smile","FaceRecording-1",1.18211330812396,3.6581657790719,13.3821768671727
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Smirk","FaceRecording-1",0.00986933805618609,0.176084685872616,0.031005816598858
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Upper Lip Raise","FaceRecording-1",1.35409983874598,5.62853997671186,31.6804622694436
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Blink","FaceRecording-1",0.00180845452490393,0.0424879907720576,0.00180522935984645
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","BlinkRate","FaceRecording-1",2.60558412053091,5.14977920974573,26.5202259091293
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Pitch","FaceRecording-1",-4.99123166756558,5.86433656174162,34.3904433093795
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Yaw","FaceRecording-1",-8.21582407484443,9.99062094595641,99.8125068857829
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Roll","FaceRecording-1",-3.21367380737924,5.04271690704938,25.4289938046416
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","enjoyable","Interocular Distance","FaceRecording-1",41.6401068600253,30.1664100677021,910.012296372756
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Anger","FaceRecording-1",0.0862764244556935,0.0768486971277328,0.00590572225023
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Contempt","FaceRecording-1",0.123243625358229,0.289152433998393,0.0836091300871952
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Disgust","FaceRecording-1",0.0404919661548211,0.803462319345647,0.645551698608286
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Fear","FaceRecording-1",0.0170743144551791,0.0175612195126216,0.000308396430770481
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Joy","FaceRecording-1",0.020506869122298,0.0480488124692391,0.00230868837970411
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Sadness","FaceRecording-1",0.0928796567025245,0.162930008907677,0.0265461878026556
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Surprise","FaceRecording-1",0.0443073491888546,0.0765278969058564,0.00585651900483338
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Engagement","FaceRecording-1",0.332242920155835,2.0295979634649,4.11926789330088
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Valence","FaceRecording-1",0.101855164891221,1.24386898277032,1.54721004629807
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Sentimentality","FaceRecording-1",0.28291419674629,0.587664971950248,0.345350119257285
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Confusion","FaceRecording-1",0.176129054648403,0.771811188863554,0.595692511254973
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Neutral","FaceRecording-1",66.9944115909379,46.7228975733798,2183.02915765254
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Attention","FaceRecording-1",52.0047234505629,41.2270803758058,1699.67215631315
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Brow Furrow","FaceRecording-1",0.0461153843206387,0.39356152304102,0.154890672418367
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Brow Raise","FaceRecording-1",0.177513378534074,1.40597929477317,1.97677777733085
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Cheek Raise","FaceRecording-1",0.216847420261309,0.891121958421856,0.794098344781605
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Chin Raise","FaceRecording-1",0.108394400459805,1.58746290486683,2.52003847432822
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Dimpler","FaceRecording-1",0.0329116892821083,0.729474899539329,0.532133629057914
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Eye Closure","FaceRecording-1",8.99601317979875,17.8877080551296,319.970099465547
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Eye Widen","FaceRecording-1",0.0247031274192831,0.312589894622267,0.0977124422199597
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Inner Brow Raise","FaceRecording-1",0.817344105892088,3.487449413255,12.1623034100127
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Jaw Drop","FaceRecording-1",0.495555268272327,2.84368034965372,8.08651793100668
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Lip Corner Depressor","FaceRecording-1",0.052229823726354,0.635861671230698,0.404320064940296
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Lip Press","FaceRecording-1",0.102082027980538,0.474256226998045,0.224918968846421
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Lip Pucker","FaceRecording-1",0.856434076897542,4.79668546413796,23.0081914418724
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Lip Stretch","FaceRecording-1",0.148617769814525,1.10732153757881,1.2261609875859
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Lip Suck","FaceRecording-1",0.619976942379158,2.90602101079524,8.44495811518341
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Lid Tighten","FaceRecording-1",0.0734155231338324,0.850696986536565,0.723685362902393
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Mouth Open","FaceRecording-1",0.27679436649351,2.71440564493821,7.3679980052724
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Nose Wrinkle","FaceRecording-1",0.289968156607701,1.59940209790109,2.5580870707704
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Smile","FaceRecording-1",0.722864451873236,1.83156913166876,3.35464548408184
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Smirk","FaceRecording-1",0.0187946807004843,0.648153354704896,0.420102771215211
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Upper Lip Raise","FaceRecording-1",1.38061196711427,6.10534309796589,37.2752143438797
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Blink","FaceRecording-1",0.00118110236220472,0.0343479951833254,0.00117978477311374
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","BlinkRate","FaceRecording-1",2.31978013095142,5.25193077482342,27.5827768635373
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Pitch","FaceRecording-1",-3.96399293528629,6.20203730627431,38.4652667484183
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Yaw","FaceRecording-1",-7.61897071018428,10.7161086802216,114.83498524632
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Roll","FaceRecording-1",-3.39599197719876,6.30878941002598,39.8008238200559
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","negetive","Interocular Distance","FaceRecording-1",42.5099736810122,31.3897920640424,985.319045823816
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Anger","FaceRecording-1",0.0884319827518055,0.070132430190237,0.00491855776438847
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Contempt","FaceRecording-1",0.121428039685538,0.0828054385189562,0.00685674064831664
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Disgust","FaceRecording-1",0.036477218234777,0.71193097601787,0.506845714613757
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Fear","FaceRecording-1",0.0165207442862045,0.0114839031423547,0.000131880031382984
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Joy","FaceRecording-1",0.0572138490985067,1.22042917912524,1.48944738126032
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Sadness","FaceRecording-1",0.0875216571613357,0.0879401010554572,0.00773346137364402
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Surprise","FaceRecording-1",0.0422709736448303,0.0456896968612954,0.00208754839927707
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Engagement","FaceRecording-1",0.396132730104438,3.11416127371539,9.69800043870866
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Valence","FaceRecording-1",0.273792863224989,2.81590693953696,7.92933189213242
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Sentimentality","FaceRecording-1",0.386566829857788,0.677823379173369,0.459444533354005
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Confusion","FaceRecording-1",0.137937761768221,0.548382694831082,0.3007235799902
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Neutral","FaceRecording-1",69.2478708498762,45.8295730018389,2100.34976153088
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Attention","FaceRecording-1",57.1266330892327,41.757659992438,1743.70216804406
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Brow Furrow","FaceRecording-1",0.0346622303809109,0.211535411092182,0.0447472301459386
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Brow Raise","FaceRecording-1",0.11500008129366,0.81499296434254,0.664213531927841
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Cheek Raise","FaceRecording-1",0.322130057780245,1.15238948176805,1.32800151768964
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Chin Raise","FaceRecording-1",0.0931489063025224,1.87306102537632,3.5083576047838
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Dimpler","FaceRecording-1",0.0809775231613722,1.65577537087033,2.74159207878077
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Eye Closure","FaceRecording-1",15.0154690429624,24.3727226358312,594.029608683159
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Eye Widen","FaceRecording-1",0.0146262374500744,0.0901263234517759,0.00812275417893413
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Inner Brow Raise","FaceRecording-1",0.328928217646238,1.17408730397416,1.3784809973533
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Jaw Drop","FaceRecording-1",0.536108682695037,3.19139775767356,10.1850196476839
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Lip Corner Depressor","FaceRecording-1",0.0448749763154,0.633795650255916,0.40169692628332
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Lip Press","FaceRecording-1",0.104791640018148,0.561375398177972,0.315142337679477
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Lip Pucker","FaceRecording-1",0.661182394450203,3.34526250245812,11.1907812103523
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Lip Stretch","FaceRecording-1",0.268996996395696,1.38052756075095,1.90585634599296
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Lip Suck","FaceRecording-1",0.790061328533228,2.58049027272143,6.65893004760993
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Lid Tighten","FaceRecording-1",0.0451866504793683,0.229989198218966,0.0528950312974027
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Mouth Open","FaceRecording-1",0.266242975142861,2.76143800864925,7.62553987561276
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Nose Wrinkle","FaceRecording-1",0.225472780681075,1.22957864837102,1.5118636525299
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Smile","FaceRecording-1",1.09898752663234,3.06482546860205,9.39315515299174
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Smirk","FaceRecording-1",0.0115294632922189,0.215366659615265,0.0463827980738374
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Upper Lip Raise","FaceRecording-1",1.49746918024771,6.27144362979132,39.3310052016501
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Blink","FaceRecording-1",0.00182164795594154,0.042642778866672,0.00181840658947189
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","BlinkRate","FaceRecording-1",2.80189384500374,5.42263593321634,29.404980464209
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Pitch","FaceRecording-1",-5.6111193389046,6.24137549975748,38.9547681289729
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Yaw","FaceRecording-1",-7.45864465147779,8.99362971263776,80.8853754080408
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Roll","FaceRecording-1",-3.0293824080381,5.18528352035612,26.8871651864767
+"thermal_painting_study","2023-10-06 15-29-04","MALE",0,"Default","Annotation","highlight of your thinkings and inspired","Interocular Distance","FaceRecording-1",43.0969876741308,29.6079590955404,876.631241803191
